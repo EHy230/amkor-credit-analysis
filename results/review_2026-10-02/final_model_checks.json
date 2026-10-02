@@ -1,0 +1,15 @@
+{
+  "status": "PASS",
+  "changed_business_cells": [
+    "Credit Summary!C63",
+    "Header text in C3 on six sheets (author line)"
+  ],
+  "numeric_changes": 0,
+  "formula_changes": 0,
+  "charts_preserved": true,
+  "styles_preserved": true,
+  "native_feature_scope": "All package parts compared; relationship IDs may regenerate with identical targets.",
+  "benchmark_backup": "results/reference_benchmark/Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+  "updated_workbook_sha256": "15fd888fd471ee6d9b88383e77de2704e98eba76578b108d9cd021d1488c3e31",
+  "native_mac_excel_recalculation": "Calculation-engine and package-preservation checks passed; open in Mac Excel to confirm layout."
+}

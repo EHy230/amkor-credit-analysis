@@ -1,0 +1,1742 @@
+[
+  {
+    "field_id": "revenue",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 6503065,
+    "normalized_usd_millions": 6503.065,
+    "benchmark_cell": "Raw Spread!D7",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "revenue",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 6317692,
+    "normalized_usd_millions": 6317.692,
+    "benchmark_cell": "Raw Spread!E7",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "revenue",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 6707981,
+    "normalized_usd_millions": 6707.981,
+    "benchmark_cell": "Raw Spread!F7",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "cost_of_sales",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 5559912,
+    "normalized_usd_millions": 5559.912,
+    "benchmark_cell": "Raw Spread!D8",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "cost_of_sales",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 5384480,
+    "normalized_usd_millions": 5384.48,
+    "benchmark_cell": "Raw Spread!E8",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "cost_of_sales",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 5769382,
+    "normalized_usd_millions": 5769.382,
+    "benchmark_cell": "Raw Spread!F8",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "gross_profit",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 943153,
+    "normalized_usd_millions": 943.153,
+    "benchmark_cell": "Raw Spread!D9",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "gross_profit",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 933212,
+    "normalized_usd_millions": 933.212,
+    "benchmark_cell": "Raw Spread!E9",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "gross_profit",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 938599,
+    "normalized_usd_millions": 938.599,
+    "benchmark_cell": "Raw Spread!F9",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "selling_general_administrative",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 295393,
+    "normalized_usd_millions": 295.393,
+    "benchmark_cell": "Raw Spread!D10",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "selling_general_administrative",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 331806,
+    "normalized_usd_millions": 331.806,
+    "benchmark_cell": "Raw Spread!E10",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "selling_general_administrative",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 304471,
+    "normalized_usd_millions": 304.471,
+    "benchmark_cell": "Raw Spread!F10",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "research_development",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 177473,
+    "normalized_usd_millions": 177.473,
+    "benchmark_cell": "Raw Spread!D11",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "research_development",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 162951,
+    "normalized_usd_millions": 162.951,
+    "benchmark_cell": "Raw Spread!E11",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "research_development",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 166743,
+    "normalized_usd_millions": 166.743,
+    "benchmark_cell": "Raw Spread!F11",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "operating_expenses",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 472866,
+    "normalized_usd_millions": 472.866,
+    "benchmark_cell": "Raw Spread!D12",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "operating_expenses",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 494757,
+    "normalized_usd_millions": 494.757,
+    "benchmark_cell": "Raw Spread!E12",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "operating_expenses",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 471214,
+    "normalized_usd_millions": 471.214,
+    "benchmark_cell": "Raw Spread!F12",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "operating_income",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 470287,
+    "normalized_usd_millions": 470.287,
+    "benchmark_cell": "Raw Spread!D13",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "operating_income",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 438455,
+    "normalized_usd_millions": 438.455,
+    "benchmark_cell": "Raw Spread!E13",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "operating_income",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 467385,
+    "normalized_usd_millions": 467.385,
+    "benchmark_cell": "Raw Spread!F13",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "interest_expense",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 59000,
+    "normalized_usd_millions": 59,
+    "benchmark_cell": "Raw Spread!D14",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "interest_expense",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 64945,
+    "normalized_usd_millions": 64.945,
+    "benchmark_cell": "Raw Spread!E14",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "interest_expense",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 75444,
+    "normalized_usd_millions": 75.444,
+    "benchmark_cell": "Raw Spread!F14",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "other_income_expense",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": -32554,
+    "normalized_usd_millions": -32.554,
+    "benchmark_cell": "Raw Spread!D15",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "other_income_expense",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": -57506,
+    "normalized_usd_millions": -57.506,
+    "benchmark_cell": "Raw Spread!E15",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "other_income_expense",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": -52678,
+    "normalized_usd_millions": -52.678,
+    "benchmark_cell": "Raw Spread!F15",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "pretax_income",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 443841,
+    "normalized_usd_millions": 443.841,
+    "benchmark_cell": "Raw Spread!D16",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "pretax_income",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 431016,
+    "normalized_usd_millions": 431.016,
+    "benchmark_cell": "Raw Spread!E16",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "pretax_income",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 444619,
+    "normalized_usd_millions": 444.619,
+    "benchmark_cell": "Raw Spread!F16",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "income_tax_expense",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 81710,
+    "normalized_usd_millions": 81.71,
+    "benchmark_cell": "Raw Spread!D17",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "income_tax_expense",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 75481,
+    "normalized_usd_millions": 75.481,
+    "benchmark_cell": "Raw Spread!E17",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "income_tax_expense",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 68503,
+    "normalized_usd_millions": 68.503,
+    "benchmark_cell": "Raw Spread!F17",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "consolidated_net_income",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 362131,
+    "normalized_usd_millions": 362.131,
+    "benchmark_cell": "Raw Spread!D18",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "consolidated_net_income",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 355535,
+    "normalized_usd_millions": 355.535,
+    "benchmark_cell": "Raw Spread!E18",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "consolidated_net_income",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 376116,
+    "normalized_usd_millions": 376.116,
+    "benchmark_cell": "Raw Spread!F18",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "nci_net_income",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 2318,
+    "normalized_usd_millions": 2.318,
+    "benchmark_cell": "Raw Spread!D19",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "nci_net_income",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 1523,
+    "normalized_usd_millions": 1.523,
+    "benchmark_cell": "Raw Spread!E19",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "nci_net_income",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 2221,
+    "normalized_usd_millions": 2.221,
+    "benchmark_cell": "Raw Spread!F19",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "parent_net_income",
+    "fiscal_year": 2023,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 359813,
+    "normalized_usd_millions": 359.813,
+    "benchmark_cell": "Raw Spread!D20",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "parent_net_income",
+    "fiscal_year": 2024,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 354012,
+    "normalized_usd_millions": 354.012,
+    "benchmark_cell": "Raw Spread!E20",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "parent_net_income",
+    "fiscal_year": 2025,
+    "statement": "income_statement",
+    "raw_benchmark_usd_thousands": 373895,
+    "normalized_usd_millions": 373.895,
+    "benchmark_cell": "Raw Spread!F20",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "cash_equivalents",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 1119818,
+    "normalized_usd_millions": 1119.818,
+    "benchmark_cell": "Raw Spread!D23",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "cash_equivalents",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 1133553,
+    "normalized_usd_millions": 1133.553,
+    "benchmark_cell": "Raw Spread!E23",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "cash_equivalents",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 1378347,
+    "normalized_usd_millions": 1378.347,
+    "benchmark_cell": "Raw Spread!F23",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "short_term_investments",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 474869,
+    "normalized_usd_millions": 474.869,
+    "benchmark_cell": "Raw Spread!D25",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "short_term_investments",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 512984,
+    "normalized_usd_millions": 512.984,
+    "benchmark_cell": "Raw Spread!E25",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "short_term_investments",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 613038,
+    "normalized_usd_millions": 613.038,
+    "benchmark_cell": "Raw Spread!F25",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "accounts_receivable",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 1149493,
+    "normalized_usd_millions": 1149.493,
+    "benchmark_cell": "Raw Spread!D26",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "accounts_receivable",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 1055013,
+    "normalized_usd_millions": 1055.013,
+    "benchmark_cell": "Raw Spread!E26",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "accounts_receivable",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 1354825,
+    "normalized_usd_millions": 1354.825,
+    "benchmark_cell": "Raw Spread!F26",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "inventories",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 393128,
+    "normalized_usd_millions": 393.128,
+    "benchmark_cell": "Raw Spread!D27",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "inventories",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 310910,
+    "normalized_usd_millions": 310.91,
+    "benchmark_cell": "Raw Spread!E27",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "inventories",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 437797,
+    "normalized_usd_millions": 437.797,
+    "benchmark_cell": "Raw Spread!F27",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "other_current_assets",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 58502,
+    "normalized_usd_millions": 58.502,
+    "benchmark_cell": "Raw Spread!D28",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "other_current_assets",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 61012,
+    "normalized_usd_millions": 61.012,
+    "benchmark_cell": "Raw Spread!E28",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "other_current_assets",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 100754,
+    "normalized_usd_millions": 100.754,
+    "benchmark_cell": "Raw Spread!F28",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "current_assets",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 3195810,
+    "normalized_usd_millions": 3195.81,
+    "benchmark_cell": "Raw Spread!D29",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "current_assets",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 3073472,
+    "normalized_usd_millions": 3073.472,
+    "benchmark_cell": "Raw Spread!E29",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "current_assets",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 3884761,
+    "normalized_usd_millions": 3884.761,
+    "benchmark_cell": "Raw Spread!F29",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "property_plant_equipment_net",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 3299445,
+    "normalized_usd_millions": 3299.445,
+    "benchmark_cell": "Raw Spread!D30",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "property_plant_equipment_net",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 3576148,
+    "normalized_usd_millions": 3576.148,
+    "benchmark_cell": "Raw Spread!E30",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "property_plant_equipment_net",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 3870808,
+    "normalized_usd_millions": 3870.808,
+    "benchmark_cell": "Raw Spread!F30",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "operating_lease_rou",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 117006,
+    "normalized_usd_millions": 117.006,
+    "benchmark_cell": "Raw Spread!D31",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "operating_lease_rou",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 109730,
+    "normalized_usd_millions": 109.73,
+    "benchmark_cell": "Raw Spread!E31",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "operating_lease_rou",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 93449,
+    "normalized_usd_millions": 93.449,
+    "benchmark_cell": "Raw Spread!F31",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "goodwill",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 20003,
+    "normalized_usd_millions": 20.003,
+    "benchmark_cell": "Raw Spread!D32",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "goodwill",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 17947,
+    "normalized_usd_millions": 17.947,
+    "benchmark_cell": "Raw Spread!E32",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "goodwill",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 18003,
+    "normalized_usd_millions": 18.003,
+    "benchmark_cell": "Raw Spread!F32",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "restricted_cash_noncurrent",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 799,
+    "normalized_usd_millions": 0.799,
+    "benchmark_cell": "Raw Spread!D33",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "restricted_cash_noncurrent",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 759,
+    "normalized_usd_millions": 0.759,
+    "benchmark_cell": "Raw Spread!E33",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "restricted_cash_noncurrent",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 67776,
+    "normalized_usd_millions": 67.776,
+    "benchmark_cell": "Raw Spread!F33",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "other_assets",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 138062,
+    "normalized_usd_millions": 138.062,
+    "benchmark_cell": "Raw Spread!D34",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "other_assets",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 166272,
+    "normalized_usd_millions": 166.272,
+    "benchmark_cell": "Raw Spread!E34",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "other_assets",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 201512,
+    "normalized_usd_millions": 201.512,
+    "benchmark_cell": "Raw Spread!F34",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "total_assets",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 6771125,
+    "normalized_usd_millions": 6771.125,
+    "benchmark_cell": "Raw Spread!D35",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "total_assets",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 6944328,
+    "normalized_usd_millions": 6944.328,
+    "benchmark_cell": "Raw Spread!E35",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "total_assets",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 8136309,
+    "normalized_usd_millions": 8136.309,
+    "benchmark_cell": "Raw Spread!F35",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "current_debt",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 131624,
+    "normalized_usd_millions": 131.624,
+    "benchmark_cell": "Raw Spread!D36",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "current_debt",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 236029,
+    "normalized_usd_millions": 236.029,
+    "benchmark_cell": "Raw Spread!E36",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "current_debt",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 162430,
+    "normalized_usd_millions": 162.43,
+    "benchmark_cell": "Raw Spread!F36",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "accounts_payable",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 754453,
+    "normalized_usd_millions": 754.453,
+    "benchmark_cell": "Raw Spread!D37",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "accounts_payable",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 712887,
+    "normalized_usd_millions": 712.887,
+    "benchmark_cell": "Raw Spread!E37",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "accounts_payable",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 912766,
+    "normalized_usd_millions": 912.766,
+    "benchmark_cell": "Raw Spread!F37",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "capex_payable",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 106368,
+    "normalized_usd_millions": 106.368,
+    "benchmark_cell": "Raw Spread!D38",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "capex_payable",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 123195,
+    "normalized_usd_millions": 123.195,
+    "benchmark_cell": "Raw Spread!E38",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "capex_payable",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 243543,
+    "normalized_usd_millions": 243.543,
+    "benchmark_cell": "Raw Spread!F38",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "current_operating_lease",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 33616,
+    "normalized_usd_millions": 33.616,
+    "benchmark_cell": "Raw Spread!D39",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "current_operating_lease",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 26827,
+    "normalized_usd_millions": 26.827,
+    "benchmark_cell": "Raw Spread!E39",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "current_operating_lease",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 23140,
+    "normalized_usd_millions": 23.14,
+    "benchmark_cell": "Raw Spread!F39",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "accrued_expenses",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 358414,
+    "normalized_usd_millions": 358.414,
+    "benchmark_cell": "Raw Spread!D40",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "accrued_expenses",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 356337,
+    "normalized_usd_millions": 356.337,
+    "benchmark_cell": "Raw Spread!E40",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "accrued_expenses",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 370093,
+    "normalized_usd_millions": 370.093,
+    "benchmark_cell": "Raw Spread!F40",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "current_liabilities",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 1384475,
+    "normalized_usd_millions": 1384.475,
+    "benchmark_cell": "Raw Spread!D41",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "current_liabilities",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 1455275,
+    "normalized_usd_millions": 1455.275,
+    "benchmark_cell": "Raw Spread!E41",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "current_liabilities",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 1711972,
+    "normalized_usd_millions": 1711.972,
+    "benchmark_cell": "Raw Spread!F41",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "long_term_debt",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 1071832,
+    "normalized_usd_millions": 1071.832,
+    "benchmark_cell": "Raw Spread!D42",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "long_term_debt",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 923431,
+    "normalized_usd_millions": 923.431,
+    "benchmark_cell": "Raw Spread!E42",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "long_term_debt",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 1282816,
+    "normalized_usd_millions": 1282.816,
+    "benchmark_cell": "Raw Spread!F42",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "pension_severance",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 87133,
+    "normalized_usd_millions": 87.133,
+    "benchmark_cell": "Raw Spread!D43",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "pension_severance",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 70594,
+    "normalized_usd_millions": 70.594,
+    "benchmark_cell": "Raw Spread!E43",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "pension_severance",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 69218,
+    "normalized_usd_millions": 69.218,
+    "benchmark_cell": "Raw Spread!F43",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "long_term_operating_lease",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 56837,
+    "normalized_usd_millions": 56.837,
+    "benchmark_cell": "Raw Spread!D44",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "long_term_operating_lease",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 57983,
+    "normalized_usd_millions": 57.983,
+    "benchmark_cell": "Raw Spread!E44",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "long_term_operating_lease",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 48549,
+    "normalized_usd_millions": 48.549,
+    "benchmark_cell": "Raw Spread!F44",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "other_noncurrent_liabilities",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 175813,
+    "normalized_usd_millions": 175.813,
+    "benchmark_cell": "Raw Spread!D45",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "other_noncurrent_liabilities",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 253880,
+    "normalized_usd_millions": 253.88,
+    "benchmark_cell": "Raw Spread!E45",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "other_noncurrent_liabilities",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 517467,
+    "normalized_usd_millions": 517.467,
+    "benchmark_cell": "Raw Spread!F45",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "total_liabilities",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 2776090,
+    "normalized_usd_millions": 2776.09,
+    "benchmark_cell": "Raw Spread!D46",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "total_liabilities",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 2761163,
+    "normalized_usd_millions": 2761.163,
+    "benchmark_cell": "Raw Spread!E46",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "total_liabilities",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 3630022,
+    "normalized_usd_millions": 3630.022,
+    "benchmark_cell": "Raw Spread!F46",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "parent_equity",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 3962308,
+    "normalized_usd_millions": 3962.308,
+    "benchmark_cell": "Raw Spread!D47",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "parent_equity",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 4149545,
+    "normalized_usd_millions": 4149.545,
+    "benchmark_cell": "Raw Spread!E47",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "parent_equity",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 4471106,
+    "normalized_usd_millions": 4471.106,
+    "benchmark_cell": "Raw Spread!F47",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "noncontrolling_equity",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 32727,
+    "normalized_usd_millions": 32.727,
+    "benchmark_cell": "Raw Spread!D48",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "noncontrolling_equity",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 33620,
+    "normalized_usd_millions": 33.62,
+    "benchmark_cell": "Raw Spread!E48",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "noncontrolling_equity",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 35181,
+    "normalized_usd_millions": 35.181,
+    "benchmark_cell": "Raw Spread!F48",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "total_equity",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 3995035,
+    "normalized_usd_millions": 3995.035,
+    "benchmark_cell": "Raw Spread!D49",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "total_equity",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 4183165,
+    "normalized_usd_millions": 4183.165,
+    "benchmark_cell": "Raw Spread!E49",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "total_equity",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 4506287,
+    "normalized_usd_millions": 4506.287,
+    "benchmark_cell": "Raw Spread!F49",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "total_liabilities_equity",
+    "fiscal_year": 2023,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 6771125,
+    "normalized_usd_millions": 6771.125,
+    "benchmark_cell": "Raw Spread!D50",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "total_liabilities_equity",
+    "fiscal_year": 2024,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 6944328,
+    "normalized_usd_millions": 6944.328,
+    "benchmark_cell": "Raw Spread!E50",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "total_liabilities_equity",
+    "fiscal_year": 2025,
+    "statement": "balance_sheet",
+    "raw_benchmark_usd_thousands": 8136309,
+    "normalized_usd_millions": 8136.309,
+    "benchmark_cell": "Raw Spread!F50",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "depreciation_amortization",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 631508,
+    "normalized_usd_millions": 631.508,
+    "benchmark_cell": "Raw Spread!D54",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "depreciation_amortization",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 594663,
+    "normalized_usd_millions": 594.663,
+    "benchmark_cell": "Raw Spread!E54",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "depreciation_amortization",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 642008,
+    "normalized_usd_millions": 642.008,
+    "benchmark_cell": "Raw Spread!F54",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "operating_cash_flow",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 1270020,
+    "normalized_usd_millions": 1270.02,
+    "benchmark_cell": "Raw Spread!D55",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "operating_cash_flow",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 1088868,
+    "normalized_usd_millions": 1088.868,
+    "benchmark_cell": "Raw Spread!E55",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "operating_cash_flow",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 1095606,
+    "normalized_usd_millions": 1095.606,
+    "benchmark_cell": "Raw Spread!F55",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "cash_capex",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 749467,
+    "normalized_usd_millions": 749.467,
+    "benchmark_cell": "Raw Spread!D56",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "cash_capex",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 743796,
+    "normalized_usd_millions": 743.796,
+    "benchmark_cell": "Raw Spread!E56",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "cash_capex",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 904614,
+    "normalized_usd_millions": 904.614,
+    "benchmark_cell": "Raw Spread!F56",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "investing_cash_flow",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": -951910,
+    "normalized_usd_millions": -951.91,
+    "benchmark_cell": "Raw Spread!D57",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "investing_cash_flow",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": -800324,
+    "normalized_usd_millions": -800.324,
+    "benchmark_cell": "Raw Spread!E57",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "investing_cash_flow",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": -885044,
+    "normalized_usd_millions": -885.044,
+    "benchmark_cell": "Raw Spread!F57",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "financing_cash_flow",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": -149207,
+    "normalized_usd_millions": -149.207,
+    "benchmark_cell": "Raw Spread!D58",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "financing_cash_flow",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": -260432,
+    "normalized_usd_millions": -260.432,
+    "benchmark_cell": "Raw Spread!E58",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "financing_cash_flow",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 98700,
+    "normalized_usd_millions": 98.7,
+    "benchmark_cell": "Raw Spread!F58",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "fx_effect",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": -10692,
+    "normalized_usd_millions": -10.692,
+    "benchmark_cell": "Raw Spread!D59",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "fx_effect",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": -14417,
+    "normalized_usd_millions": -14.417,
+    "benchmark_cell": "Raw Spread!E59",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "fx_effect",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 2549,
+    "normalized_usd_millions": 2.549,
+    "benchmark_cell": "Raw Spread!F59",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "change_in_cash",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 158211,
+    "normalized_usd_millions": 158.211,
+    "benchmark_cell": "Raw Spread!D60",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "change_in_cash",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 13695,
+    "normalized_usd_millions": 13.695,
+    "benchmark_cell": "Raw Spread!E60",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "change_in_cash",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 311811,
+    "normalized_usd_millions": 311.811,
+    "benchmark_cell": "Raw Spread!F60",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "opening_cash",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 962406,
+    "normalized_usd_millions": 962.406,
+    "benchmark_cell": "Raw Spread!D61",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "opening_cash",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 1120617,
+    "normalized_usd_millions": 1120.617,
+    "benchmark_cell": "Raw Spread!E61",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "opening_cash",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 1134312,
+    "normalized_usd_millions": 1134.312,
+    "benchmark_cell": "Raw Spread!F61",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "closing_cash",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 1120617,
+    "normalized_usd_millions": 1120.617,
+    "benchmark_cell": "Raw Spread!D62",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "closing_cash",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 1134312,
+    "normalized_usd_millions": 1134.312,
+    "benchmark_cell": "Raw Spread!E62",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "closing_cash",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 1446123,
+    "normalized_usd_millions": 1446.123,
+    "benchmark_cell": "Raw Spread!F62",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "cash_interest_paid",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 54306,
+    "normalized_usd_millions": 54.306,
+    "benchmark_cell": "Raw Spread!D63",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "cash_interest_paid",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 60263,
+    "normalized_usd_millions": 60.263,
+    "benchmark_cell": "Raw Spread!E63",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "cash_interest_paid",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 73598,
+    "normalized_usd_millions": 73.598,
+    "benchmark_cell": "Raw Spread!F63",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "long_term_debt_repaid",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 175427,
+    "normalized_usd_millions": 175.427,
+    "benchmark_cell": "Raw Spread!D64",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "long_term_debt_repaid",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 177214,
+    "normalized_usd_millions": 177.214,
+    "benchmark_cell": "Raw Spread!E64",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "long_term_debt_repaid",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 809531,
+    "normalized_usd_millions": 809.531,
+    "benchmark_cell": "Raw Spread!F64",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "short_term_debt_repaid",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 19448,
+    "normalized_usd_millions": 19.448,
+    "benchmark_cell": "Raw Spread!D65",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "short_term_debt_repaid",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 9731,
+    "normalized_usd_millions": 9.731,
+    "benchmark_cell": "Raw Spread!E65",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "short_term_debt_repaid",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 0,
+    "normalized_usd_millions": 0,
+    "benchmark_cell": "Raw Spread!F65",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "revolver_repaid",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 370000,
+    "normalized_usd_millions": 370,
+    "benchmark_cell": "Raw Spread!D66",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "revolver_repaid",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 0,
+    "normalized_usd_millions": 0,
+    "benchmark_cell": "Raw Spread!E66",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "revolver_repaid",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 0,
+    "normalized_usd_millions": 0,
+    "benchmark_cell": "Raw Spread!F66",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "finance_lease_principal",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 66398,
+    "normalized_usd_millions": 66.398,
+    "benchmark_cell": "Raw Spread!D67",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "finance_lease_principal",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 72255,
+    "normalized_usd_millions": 72.255,
+    "benchmark_cell": "Raw Spread!E67",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "finance_lease_principal",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 89942,
+    "normalized_usd_millions": 89.942,
+    "benchmark_cell": "Raw Spread!F67",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "dividends_paid",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 74686,
+    "normalized_usd_millions": 74.686,
+    "benchmark_cell": "Raw Spread!D68",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "dividends_paid",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 178605,
+    "normalized_usd_millions": 178.605,
+    "benchmark_cell": "Raw Spread!E68",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "dividends_paid",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 81946,
+    "normalized_usd_millions": 81.946,
+    "benchmark_cell": "Raw Spread!F68",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "share_based_compensation",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 8277,
+    "normalized_usd_millions": 8.277,
+    "benchmark_cell": "Raw Spread!D69",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "share_based_compensation",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 18371,
+    "normalized_usd_millions": 18.371,
+    "benchmark_cell": "Raw Spread!E69",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "share_based_compensation",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 20099,
+    "normalized_usd_millions": 20.099,
+    "benchmark_cell": "Raw Spread!F69",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "ppe_sale_proceeds",
+    "fiscal_year": 2023,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 8444,
+    "normalized_usd_millions": 8.444,
+    "benchmark_cell": "Raw Spread!D70",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "ppe_sale_proceeds",
+    "fiscal_year": 2024,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 3981,
+    "normalized_usd_millions": 3.981,
+    "benchmark_cell": "Raw Spread!E70",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  },
+  {
+    "field_id": "ppe_sale_proceeds",
+    "fiscal_year": 2025,
+    "statement": "cash_flow",
+    "raw_benchmark_usd_thousands": 110279,
+    "normalized_usd_millions": 110.279,
+    "benchmark_cell": "Raw Spread!F70",
+    "benchmark_workbook": "Amkor_Credit_Analysis_Eisen_Hy.xlsx",
+    "benchmark_workbook_sha256": "08339bafd2dca038027988f68a10a4194b65e942bd628af8bcd86acb8471d0dd"
+  }
+]

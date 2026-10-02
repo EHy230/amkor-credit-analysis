@@ -1,0 +1,170 @@
+{
+  "mode": "LIVE_CLAUDE",
+  "version": "1.0.0",
+  "requested_model": "claude-sonnet-5-5",
+  "started_utc": "2026-10-02T06:59:14.902653+00:00",
+  "input_usd_per_mtok": 2.0,
+  "output_usd_per_mtok": 10.0,
+  "pricing_source": "https://platform.claude.com/docs/en/about-claude/pricing",
+  "status": "COMPLETE",
+  "calls": [
+    {
+      "job_id": "income",
+      "response_id": "msg_011CfcyfMD23X33RjJg8CWKu",
+      "returned_model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "seconds": 27.967957516000013,
+      "input_tokens": 2770,
+      "output_tokens": 5898,
+      "full_usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "inference_geo": "global",
+        "input_tokens": 2770,
+        "output_tokens": 5898,
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "server_tool_use": null,
+        "service_tier": "standard"
+      },
+      "estimated_api_cost_usd": 0.06452
+    },
+    {
+      "job_id": "balance_latest",
+      "response_id": "msg_011CfcyhPeAvVeRg1PTmvhQK",
+      "returned_model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "seconds": 35.76844243499994,
+      "input_tokens": 3659,
+      "output_tokens": 7931,
+      "full_usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "inference_geo": "global",
+        "input_tokens": 3659,
+        "output_tokens": 7931,
+        "output_tokens_details": {
+          "thinking_tokens": 304
+        },
+        "server_tool_use": null,
+        "service_tier": "standard"
+      },
+      "estimated_api_cost_usd": 0.086628
+    },
+    {
+      "job_id": "balance_2023",
+      "response_id": "msg_011Cfcyk2ndB1HTq6j22baM7",
+      "returned_model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "seconds": 17.209196246000033,
+      "input_tokens": 3653,
+      "output_tokens": 3784,
+      "full_usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "inference_geo": "global",
+        "input_tokens": 3653,
+        "output_tokens": 3784,
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "server_tool_use": null,
+        "service_tier": "standard"
+      },
+      "estimated_api_cost_usd": 0.045146
+    },
+    {
+      "job_id": "cash_operations",
+      "response_id": "msg_011CfcymJH4nMNtqKnjjkpwA",
+      "returned_model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "seconds": 19.509300407999945,
+      "input_tokens": 3473,
+      "output_tokens": 4417,
+      "full_usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "inference_geo": "global",
+        "input_tokens": 3473,
+        "output_tokens": 4417,
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "server_tool_use": null,
+        "service_tier": "standard"
+      },
+      "estimated_api_cost_usd": 0.051116
+    },
+    {
+      "job_id": "cash_financing",
+      "response_id": "msg_011CfcynjdqRk91cmedkbyUz",
+      "returned_model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "seconds": 23.04497923200006,
+      "input_tokens": 3380,
+      "output_tokens": 3243,
+      "full_usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "inference_geo": "global",
+        "input_tokens": 3380,
+        "output_tokens": 3243,
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "server_tool_use": null,
+        "service_tier": "standard"
+      },
+      "estimated_api_cost_usd": 0.03919
+    },
+    {
+      "job_id": "cash_interest",
+      "response_id": "msg_011CfcypSp7ST413Em7ikTgJ",
+      "returned_model": "claude-sonnet-5-5",
+      "stop_reason": "end_turn",
+      "seconds": 3.832011135999892,
+      "input_tokens": 2222,
+      "output_tokens": 496,
+      "full_usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "inference_geo": "global",
+        "input_tokens": 2222,
+        "output_tokens": 496,
+        "output_tokens_details": {
+          "thinking_tokens": 0
+        },
+        "server_tool_use": null,
+        "service_tier": "standard"
+      },
+      "estimated_api_cost_usd": 0.009404
+    }
+  ],
+  "elapsed_seconds": 127.34778986700002,
+  "estimated_api_cost_usd": 0.296004
+}

@@ -1,0 +1,25 @@
+{
+  "planned_field_years": 174,
+  "numeric_values_returned": 171,
+  "numeric_matches": 171,
+  "numeric_accuracy_all_planned": 0.9827586206896551,
+  "numeric_coverage": 0.9827586206896551,
+  "evidence_and_numeric_pass_count": 168,
+  "evidence_and_numeric_pass_rate": 0.9655172413793104,
+  "missing_or_unusable_values": 3,
+  "human_review_required_records": 174,
+  "human_approved_records": 0,
+  "limits": "One issuer, three comparative years, 58 fields; not an out-of-sample reliability claim.",
+  "mode": "LIVE_CLAUDE",
+  "model": "claude-haiku-4-5",
+  "elapsed_seconds": 124.503487081,
+  "estimated_api_cost_usd": 0.13114699999999999,
+  "timing_comparison": {
+    "status": "NOT_MEASURED",
+    "time_saving_claim": null
+  },
+  "reconciliation_counts": {
+    "PASS": 33,
+    "UNAVAILABLE": 3
+  }
+}

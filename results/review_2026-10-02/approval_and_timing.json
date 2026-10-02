@@ -1,0 +1,20 @@
+{
+  "review_date": "2026-10-02",
+  "status": "HUMAN_APPROVED",
+  "approved_records": 174,
+  "reviewers": [
+    "Eisen"
+  ],
+  "staged_amounts_changed": 0,
+  "source": "Saved returned review CSV validated with the pipeline approval gate",
+  "review_minutes": 41,
+  "review_seconds": 2460,
+  "timing_source": "Timed by the reviewer (not an instrumented timer)",
+  "selected_run_api_seconds": 127.34778986700002,
+  "selected_api_plus_review_minutes": 43.12246316445,
+  "manual_spreading_baseline_seconds": null,
+  "time_saving_claim": null,
+  "timing_limit": "API plus review time only. Excludes setup, upload, formatting and other model runs.",
+  "human_review_returned_sha256": "479b9ef6e51617f0f39f7ab65c00941a142aa99b6141176c6497f2ae8c141ee4",
+  "approved_import_sha256": "6dd4012eac44ecf146423a64d97c64088c3253e49222ada2577473ab30ce071c"
+}

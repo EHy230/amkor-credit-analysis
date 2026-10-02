@@ -1,0 +1,200 @@
+[
+  {
+    "field_id": "parent_equity",
+    "fiscal_year": 2023,
+    "original": {
+      "field_id": "parent_equity",
+      "fiscal_year": 2023,
+      "raw_value": 3962308,
+      "reported_unit": "USD thousands",
+      "source_id": "AMKR_2024_10K",
+      "pdf_page_1_based": 56,
+      "printed_page": "55",
+      "source_label": "Total Amkor stockholders' equity",
+      "source_quote": "Total Amkor stockholders' equity 4,149,545 3,962,308",
+      "status": "found",
+      "note": "Stockholders equity line item",
+      "job_id": "balance_2023"
+    },
+    "amended": {
+      "field_id": "parent_equity",
+      "fiscal_year": 2023,
+      "raw_value": 3962308,
+      "reported_unit": "USD thousands",
+      "source_id": "AMKR_2024_10K",
+      "pdf_page_1_based": 56,
+      "printed_page": "55",
+      "source_label": "Total Amkor stockholders\u2019 equity",
+      "source_quote": "Total Amkor stockholders\u2019 equity 4,149,545 3,962,308",
+      "status": "found",
+      "note": "Assistant source-checked amendment. Original live output remains unchanged. Human approval pending.",
+      "job_id": "balance_2023"
+    },
+    "reason": "AI changed the source punctuation in its quote; the numeric value agrees."
+  },
+  {
+    "field_id": "parent_equity",
+    "fiscal_year": 2024,
+    "original": {
+      "field_id": "parent_equity",
+      "fiscal_year": 2024,
+      "raw_value": 4149545,
+      "reported_unit": "USD thousands",
+      "source_id": "AMKR_2025_10K",
+      "pdf_page_1_based": 56,
+      "printed_page": "55",
+      "source_label": "Total Amkor stockholders' equity",
+      "source_quote": "Total Amkor stockholders' equity 4,471,106 4,149,545",
+      "status": "found",
+      "note": "Parent company stockholders' equity",
+      "job_id": "balance_latest"
+    },
+    "amended": {
+      "field_id": "parent_equity",
+      "fiscal_year": 2024,
+      "raw_value": 4149545,
+      "reported_unit": "USD thousands",
+      "source_id": "AMKR_2025_10K",
+      "pdf_page_1_based": 56,
+      "printed_page": "55",
+      "source_label": "Total Amkor stockholders\u2019 equity",
+      "source_quote": "Total Amkor stockholders\u2019 equity 4,471,106 4,149,545",
+      "status": "found",
+      "note": "Assistant source-checked amendment. Original live output remains unchanged. Human approval pending.",
+      "job_id": "balance_latest"
+    },
+    "reason": "AI changed the source punctuation in its quote; the numeric value agrees."
+  },
+  {
+    "field_id": "revolver_repaid",
+    "fiscal_year": 2024,
+    "original": {
+      "field_id": "revolver_repaid",
+      "fiscal_year": 2024,
+      "raw_value": null,
+      "reported_unit": "USD thousands",
+      "source_id": "AMKR_2025_10K",
+      "pdf_page_1_based": 58,
+      "printed_page": "57",
+      "source_label": "Payments of revolving credit facilities",
+      "source_quote": "Payments of revolving credit facilities \u2014 \u2014 (370,000)",
+      "status": "found",
+      "note": "Explicit dash (\u2014) in 2024 column indicates zero.",
+      "job_id": "cash_financing"
+    },
+    "amended": {
+      "field_id": "revolver_repaid",
+      "fiscal_year": 2024,
+      "raw_value": 0,
+      "reported_unit": "USD thousands",
+      "source_id": "AMKR_2025_10K",
+      "pdf_page_1_based": 58,
+      "printed_page": "57",
+      "source_label": "Payments of revolving credit facilities",
+      "source_quote": "Payments of revolving credit facilities \u2014 \u2014 (370,000)",
+      "status": "found",
+      "note": "Assistant source-checked amendment. Original live output remains unchanged. Human approval pending.",
+      "job_id": "cash_financing"
+    },
+    "reason": "Explicit source dash in the requested year is zero, not missing."
+  },
+  {
+    "field_id": "parent_equity",
+    "fiscal_year": 2025,
+    "original": {
+      "field_id": "parent_equity",
+      "fiscal_year": 2025,
+      "raw_value": 4471106,
+      "reported_unit": "USD thousands",
+      "source_id": "AMKR_2025_10K",
+      "pdf_page_1_based": 56,
+      "printed_page": "55",
+      "source_label": "Total Amkor stockholders' equity",
+      "source_quote": "Total Amkor stockholders' equity 4,471,106 4,149,545",
+      "status": "found",
+      "note": "Parent company stockholders' equity",
+      "job_id": "balance_latest"
+    },
+    "amended": {
+      "field_id": "parent_equity",
+      "fiscal_year": 2025,
+      "raw_value": 4471106,
+      "reported_unit": "USD thousands",
+      "source_id": "AMKR_2025_10K",
+      "pdf_page_1_based": 56,
+      "printed_page": "55",
+      "source_label": "Total Amkor stockholders\u2019 equity",
+      "source_quote": "Total Amkor stockholders\u2019 equity 4,471,106 4,149,545",
+      "status": "found",
+      "note": "Assistant source-checked amendment. Original live output remains unchanged. Human approval pending.",
+      "job_id": "balance_latest"
+    },
+    "reason": "AI changed the source punctuation in its quote; the numeric value agrees."
+  },
+  {
+    "field_id": "revolver_repaid",
+    "fiscal_year": 2025,
+    "original": {
+      "field_id": "revolver_repaid",
+      "fiscal_year": 2025,
+      "raw_value": null,
+      "reported_unit": "USD thousands",
+      "source_id": "AMKR_2025_10K",
+      "pdf_page_1_based": 58,
+      "printed_page": "57",
+      "source_label": "Payments of revolving credit facilities",
+      "source_quote": "Payments of revolving credit facilities \u2014 \u2014 (370,000)",
+      "status": "found",
+      "note": "Explicit dash (\u2014) in 2025 column indicates zero.",
+      "job_id": "cash_financing"
+    },
+    "amended": {
+      "field_id": "revolver_repaid",
+      "fiscal_year": 2025,
+      "raw_value": 0,
+      "reported_unit": "USD thousands",
+      "source_id": "AMKR_2025_10K",
+      "pdf_page_1_based": 58,
+      "printed_page": "57",
+      "source_label": "Payments of revolving credit facilities",
+      "source_quote": "Payments of revolving credit facilities \u2014 \u2014 (370,000)",
+      "status": "found",
+      "note": "Assistant source-checked amendment. Original live output remains unchanged. Human approval pending.",
+      "job_id": "cash_financing"
+    },
+    "reason": "Explicit source dash in the requested year is zero, not missing."
+  },
+  {
+    "field_id": "short_term_debt_repaid",
+    "fiscal_year": 2025,
+    "original": {
+      "field_id": "short_term_debt_repaid",
+      "fiscal_year": 2025,
+      "raw_value": null,
+      "reported_unit": "USD thousands",
+      "source_id": "AMKR_2025_10K",
+      "pdf_page_1_based": 58,
+      "printed_page": "57",
+      "source_label": "Payments of short-term debt",
+      "source_quote": "Payments of short-term debt \u2014 (9,731) (19,448)",
+      "status": "found",
+      "note": "Explicit dash (\u2014) in 2025 column indicates zero; parentheses around 2024 and 2023 amounts are negative.",
+      "job_id": "cash_financing"
+    },
+    "amended": {
+      "field_id": "short_term_debt_repaid",
+      "fiscal_year": 2025,
+      "raw_value": 0,
+      "reported_unit": "USD thousands",
+      "source_id": "AMKR_2025_10K",
+      "pdf_page_1_based": 58,
+      "printed_page": "57",
+      "source_label": "Payments of short-term debt",
+      "source_quote": "Payments of short-term debt \u2014 (9,731) (19,448)",
+      "status": "found",
+      "note": "Assistant source-checked amendment. Original live output remains unchanged. Human approval pending.",
+      "job_id": "cash_financing"
+    },
+    "reason": "Explicit source dash in the requested year is zero, not missing."
+  }
+]

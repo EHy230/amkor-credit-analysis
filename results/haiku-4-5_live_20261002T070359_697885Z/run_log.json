@@ -1,0 +1,158 @@
+{
+  "mode": "LIVE_CLAUDE",
+  "version": "1.0.0",
+  "requested_model": "claude-haiku-4-5",
+  "started_utc": "2026-10-02T07:03:59.700162+00:00",
+  "input_usd_per_mtok": 1.0,
+  "output_usd_per_mtok": 5.0,
+  "pricing_source": "https://platform.claude.com/docs/en/about-claude/pricing",
+  "status": "COMPLETE",
+  "calls": [
+    {
+      "job_id": "income",
+      "response_id": "msg_011Cfcz2Le7tuQancjWqBfLv",
+      "returned_model": "claude-haiku-4-5-20251001",
+      "stop_reason": "end_turn",
+      "seconds": 27.26479193,
+      "input_tokens": 2224,
+      "output_tokens": 5200,
+      "full_usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "inference_geo": "not_available",
+        "input_tokens": 2224,
+        "output_tokens": 5200,
+        "output_tokens_details": null,
+        "server_tool_use": null,
+        "service_tier": "standard"
+      },
+      "estimated_api_cost_usd": 0.028224
+    },
+    {
+      "job_id": "balance_latest",
+      "response_id": "msg_011Cfcz4LWFHvhyD2gXbbGpP",
+      "returned_model": "claude-haiku-4-5-20251001",
+      "stop_reason": "end_turn",
+      "seconds": 33.556487468,
+      "input_tokens": 2891,
+      "output_tokens": 7083,
+      "full_usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "inference_geo": "not_available",
+        "input_tokens": 2891,
+        "output_tokens": 7083,
+        "output_tokens_details": null,
+        "server_tool_use": null,
+        "service_tier": "standard"
+      },
+      "estimated_api_cost_usd": 0.038306
+    },
+    {
+      "job_id": "balance_2023",
+      "response_id": "msg_011Cfcz6ouKWKU7wUsuyBHjZ",
+      "returned_model": "claude-haiku-4-5-20251001",
+      "stop_reason": "end_turn",
+      "seconds": 25.502071362000038,
+      "input_tokens": 2885,
+      "output_tokens": 3536,
+      "full_usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "inference_geo": "not_available",
+        "input_tokens": 2885,
+        "output_tokens": 3536,
+        "output_tokens_details": null,
+        "server_tool_use": null,
+        "service_tier": "standard"
+      },
+      "estimated_api_cost_usd": 0.020565
+    },
+    {
+      "job_id": "cash_operations",
+      "response_id": "msg_011Cfcz8gnzLKqyBCDT3oUca",
+      "returned_model": "claude-haiku-4-5-20251001",
+      "stop_reason": "end_turn",
+      "seconds": 19.697002692999945,
+      "input_tokens": 2763,
+      "output_tokens": 3981,
+      "full_usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "inference_geo": "not_available",
+        "input_tokens": 2763,
+        "output_tokens": 3981,
+        "output_tokens_details": null,
+        "server_tool_use": null,
+        "service_tier": "standard"
+      },
+      "estimated_api_cost_usd": 0.022668
+    },
+    {
+      "job_id": "cash_financing",
+      "response_id": "msg_011CfczA964Vkr1HqWgy5rjo",
+      "returned_model": "claude-haiku-4-5-20251001",
+      "stop_reason": "end_turn",
+      "seconds": 15.367946099999926,
+      "input_tokens": 2712,
+      "output_tokens": 2932,
+      "full_usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "inference_geo": "not_available",
+        "input_tokens": 2712,
+        "output_tokens": 2932,
+        "output_tokens_details": null,
+        "server_tool_use": null,
+        "service_tier": "standard"
+      },
+      "estimated_api_cost_usd": 0.017372
+    },
+    {
+      "job_id": "cash_interest",
+      "response_id": "msg_011CfczBHJCfFJXyE5NCjFiz",
+      "returned_model": "claude-haiku-4-5-20251001",
+      "stop_reason": "end_turn",
+      "seconds": 3.1019914449999533,
+      "input_tokens": 1757,
+      "output_tokens": 451,
+      "full_usage": {
+        "cache_creation": {
+          "ephemeral_1h_input_tokens": 0,
+          "ephemeral_5m_input_tokens": 0
+        },
+        "cache_creation_input_tokens": 0,
+        "cache_read_input_tokens": 0,
+        "inference_geo": "not_available",
+        "input_tokens": 1757,
+        "output_tokens": 451,
+        "output_tokens_details": null,
+        "server_tool_use": null,
+        "service_tier": "standard"
+      },
+      "estimated_api_cost_usd": 0.004012
+    }
+  ],
+  "elapsed_seconds": 124.503487081,
+  "estimated_api_cost_usd": 0.13114699999999999
+}
