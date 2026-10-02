@@ -10,6 +10,9 @@
   "styles_preserved": true,
   "native_feature_scope": "All package parts compared; relationship IDs may regenerate with identical targets.",
   "benchmark_backup": "results/reference_benchmark/Amkor_Credit_Analysis_Eisen_Hy.xlsx",
-  "updated_workbook_sha256": "15fd888fd471ee6d9b88383e77de2704e98eba76578b108d9cd021d1488c3e31",
-  "native_mac_excel_recalculation": "Calculation-engine and package-preservation checks passed; open in Mac Excel to confirm layout."
+  "updated_workbook_sha256": "6bc108750fbc27decbc936843285769bc4e991b979ad28d4449882edc8aa7652",
+  "native_mac_excel_recalculation": "Calculation-engine and package-preservation checks passed; open in Mac Excel to confirm layout.",
+  "added_sheets": [
+    "Credit Break-even (formulas linked to Forecast and Assumptions; no existing values or formulas changed)"
+  ]
 }

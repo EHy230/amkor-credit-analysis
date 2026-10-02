@@ -12,12 +12,14 @@ Defer the loan until Amkor shows a fully funded plan for its expansion spending.
 
 Amkor's leverage is low. Gross debt was about 1.9x the EBITDA proxy for the twelve months to June 2026, and earnings cover interest many times over. The concern is cash. The company guides to $2.5–3.0 billion of capital spending in 2026, and free cash flow (operating cash flow minus capex) was about −$172 million over those twelve months. Under my base-case assumptions, liquid assets fall below a $500 million minimum reserve in 2028, and the cumulative funding gap reaches $3.02 billion by 2029. In the combined revenue and interest-rate stress case, the gap grows to $4.24 billion. Making the loan smaller would not close that gap, so the memo asks for a funded expansion plan and verified repayment sources before any commitment.
 
+The break-even sheet shows what it would take to stay above the reserve. In the base case, Amkor would need about $3.02 billion of new funding by 2029, or a uniform cut of about 33% to its planned 2026–2029 capital spending with maintenance spending protected. In the combined stress case, that rises to $4.24 billion or a 47% cut.
+
 ## What's in this repository
 
 | Folder / file | Contents |
 | --- | --- |
 | `memo/` | Two-page credit memo (PDF) |
-| `model/` | Excel credit model: historical spread, June 2026 update, cash-flow forecast to 2029, debt schedule, the proposed loan, and five scenarios |
+| `model/` | Excel credit model: historical spread, June 2026 update, cash-flow forecast to 2029, debt schedule, the proposed loan, five scenarios, and a break-even sheet |
 | `code/` | Python pipeline, Google Colab notebook, offline tests, and the benchmark used to score the AI |
 | `results/` | Run logs, evaluation results, accounting checks, and my review and approval of every extracted value |
 | `sources/source_manifest.csv` | Links to the SEC filings used |
@@ -27,6 +29,21 @@ Amkor's leverage is low. Gross debt was about 1.9x the EBITDA proxy for the twel
 Pick a case from the dropdown on the Assumptions sheet (cell D7): **Base**, **Revenue −20%**, **Rates +200bp**, **Combined stress** or **Severe funding**. The whole forecast recalculates from that one cell, and reported actuals never change.
 
 The model tracks gross debt / EBITDA proxy, EBITDA / cash interest, debt service coverage using maintenance capex and using total capex, and liquid assets against a $500 million minimum reserve. Future capex, the maintenance share of capex (30%), customer advance timing and the loan terms are my assumptions and are labeled in the workbook.
+
+The **Credit Break-even** sheet shows two separate ways to keep liquid assets at or above the $500 million reserve in the selected case:
+
+- **Fund the plan:** the cumulative outside funding needed by each period-end.
+- **Defer capex:** the smallest uniform cut to planned capex that closes the gap, found by dividing each period's shortfall by the capex planned up to that point and taking the largest ratio. Maintenance capex is protected, so only the other 70% can be cut.
+
+| Case | Funding needed by 2029 | Or uniform capex cut |
+| --- | ---: | ---: |
+| Base | $3.02B | 33.3% |
+| Rates +200bp | $3.04B | 33.6% |
+| Revenue −20% | $4.21B | 46.5% |
+| Combined stress | $4.24B | 46.8% |
+| Severe funding | $6.14B | 56.8% |
+
+The two routes are alternatives, so their amounts should not be added together. The cuts assume revenue, EBITDA, taxes, customer advances and debt service stay the same.
 
 ## AI financial spreading
 
