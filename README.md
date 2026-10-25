@@ -1,6 +1,6 @@
 # Amkor Technology Credit Analysis and AI Financial Spreading
 
-By Eisen Hy, October 2026. Tools: Excel, Python, Claude API, Google Colab.
+By Eisen Hy, 2026. Tools: Excel, Python, Claude API, Google Colab.
 
 This project looks at a hypothetical $100 million, three-year term loan to Amkor Technology (NASDAQ: AMKR) from a lender's point of view. Amkor is a U.S.-based semiconductor packaging and test company with most of its operations in Asia. Using its public filings, I built an Excel credit model, wrote a two-page credit memo, and built a Python pipeline that uses the Claude API to pull figures out of the 10-K financial statements.
 
@@ -65,7 +65,7 @@ The two routes are alternatives, so their amounts should not be added together. 
 
 Haiku left three values blank where the 10-K prints a dash (meaning zero). On three parent-equity rows it changed a curly apostrophe to a straight one, so its quotes did not match the page exactly; the amounts on those rows were correct.
 
-I used the Sonnet run. All 174 values were approved by Eisen on October 2, 2026, after a 41-minute source review against the 10-K pages. I did not time a fully manual spread, so I am not claiming a time saving.
+I used the Sonnet run. All 174 values were approved by Eisen after a 41-minute source review against the 10-K pages. I did not time a fully manual spread, so I am not claiming a time saving.
 
 ## Run it yourself
 
