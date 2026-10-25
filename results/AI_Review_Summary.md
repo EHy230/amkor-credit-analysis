@@ -1,6 +1,6 @@
 # AI spreading results and review
 
-Runs and review completed October 2, 2026. The pilot covers 58 fields across FY2023–FY2025, or 174 field/year values. Each model was run once, with six API calls per run.
+The pilot covers 58 fields across FY2023–FY2025, or 174 field/year values. Each model was run once, with six API calls per run.
 
 ## Results
 
@@ -18,7 +18,7 @@ Costs are estimates from token counts and the published prices entered for each 
 
 ## Review and approval
 
-The Sonnet run was selected for review. Eisen checked all 174 values against the 10-K pages (line, year column, sign and units) and approved every one on October 2, 2026, with no amounts changed. The source review took 41 minutes. The approval step in the pipeline confirmed that no staged amount changed during review.
+The Sonnet run was selected for review. Eisen checked all 174 values against the 10-K pages (line, year column, sign and units) and approved every one, with no amounts changed. The source review took 41 minutes. The approval step in the pipeline confirmed that no staged amount changed during review.
 
 - `sonnet-5-5_live_.../human_review_returned.csv`: Eisen's decision and note for each value.
 - `sonnet-5-5_live_.../human_approved_import.csv`: the 174 approved values.
